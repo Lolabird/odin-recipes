@@ -10,6 +10,7 @@ In this particular project, I will showcase some HTML and CSS skills I've learne
 - height and width
 - fonts and color
 - background
+- display types
 - probably some other stuff too, but it's late and I don't feel like digging through notes atm
 
 
