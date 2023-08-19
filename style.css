@@ -1,7 +1,7 @@
 body{
     max-width: 60%;
     margin: auto;
-    background-color: rgb(203, 247, 203);
+    background-color: rgb(220, 248, 220);
 }
 
 img{
@@ -9,21 +9,34 @@ img{
     height: auto;
 }
 
-ul{
-    list-style-type: none;
-}
-
 a{
    text-decoration: none; 
+}
+
+h1, h2, h3, h4, h5, h6, .recipe-menu{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
 }
 
 .recipe-menu{
     padding: 0;
     border: 5px solid green;
     text-align: center;
+    list-style-type: none;
+    width: fit-content;
+    margin: auto;
 }
 
 .recipe-menu li{
     margin: 8px;
     display: inline-block;
+    font-size: 20px;
 }
