@@ -1,0 +1,29 @@
+body{
+    max-width: 60%;
+    margin: auto;
+    background-color: rgb(203, 247, 203);
+}
+
+img{
+    width:100%;
+    height: auto;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+   text-decoration: none; 
+}
+
+.recipe-menu{
+    padding: 0;
+    border: 5px solid green;
+    text-align: center;
+}
+
+.recipe-menu li{
+    margin: 8px;
+    display: inline-block;
+}

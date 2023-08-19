@@ -7,4 +7,6 @@ In this particular project, I will showcase some HTML skills I've learned:
 - lists
 - links and images
 
-This is going to be a very bare bones project, at least to start, until I get further along. Apparently, some CSS will be added later down the road, so stay tuned! 
+This is going to be a very bare bones project, at least to start, until I get further along. 
+
+Alright! CSS has been added!
