@@ -1,9 +1,13 @@
 html {
-    background-image: url("./images/wood-591631_1920.jpg");
+    height: 100%;
 }
 
 body{
+    background-image: url("./images/wood-591631_1920.jpg");
+    background-color: #dcf8dc;
     margin: 0;
+    padding: 0;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -11,10 +15,9 @@ body{
 main {
     max-width: 66%;
     margin: 0 auto;
-    padding: 10px 85px;
-    min-height: 100vh;
+    padding: 0 85px;
     background-color: rgb(220, 248, 220, .85);
-    flex: 1
+    flex: 1;
 }
 
 img {
